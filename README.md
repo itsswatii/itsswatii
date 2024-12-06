@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;Market+Analyst)](https://github.com/kundan7kumar)
+[![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Swati+Kumari+%F0%9F%91%8B;Market+Analyst)](https://github.com/kundan7kumar)
 <p>
 
 </a>
