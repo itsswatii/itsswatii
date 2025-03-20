@@ -43,7 +43,7 @@ Let’s connect if you’re passionate about data-driven innovation, inclusive l
 
 > Feel free to connect and future collaborations ⏬
 <p align ="center"> 
-<a href="https://www.linkedin.com/in/kundan-kumarr/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
+<a href="https://www.linkedin.com/in/swati-kumarii/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
 <a href="mailto:itsswati27@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
 </p>
 
