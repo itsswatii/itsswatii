@@ -24,20 +24,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@kkresearch"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" /></a>
 </p>
 
-I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcement Learning (DRL) and also studying Statistics as a minor. I possess a solid background in computer science and have worked in software development for 5 years. I have a strong enthusiasm for using reinforcement learning methods to tackle intricate issues and develop intelligent agents capable of learning and adjusting in ever-changing settings. Through my vast background in software development, my abilities in problem-solving and programming have been sharpened, allowing me to be a versatile researcher capable of connecting theoretical concepts with practical uses. I have participated in different software projects, acquiring skills in multiple programming languages and development methods, which has benefited my academic endeavors. My background includes statistical analysis, enabling me to implement rigorous data-driven methods in my research on DRL. I strive to actively participate in the advancement of intelligent algorithms in a wide range of applications, including autonomous systems and power systems, to foster innovation. My motivation stems from a love for technology, a hunger for learning, and a drive to explore the limits of computer science and AI.
-
-> Feel free to connect and future collaborations ⏬
-<p align ="center"> 
-<a href="https://www.linkedin.com/in/kundan-kumarr/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
-<a href="mailto:cs.kundann@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
-</p>
-
-
-
-
-
 <p>
-
 </a>
 <a href="mailto:itsswati27@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" />
@@ -50,22 +37,21 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 </a>
 <a href="https://www.linkedin.com/in/swati-kumarii/">
     <img src="https://img.shields.io/badge/Linkedin2CA5E0?style=plastic&logo=medium&color=White" alt="" />
-
 </p>
 
-I am currently pursuing a MBA, focusing on Deep Reinforcement Learning (DRL) and also studying Statistics as a minor. I possess a solid background in computer science and have worked in software development for 5 years. I have a strong enthusiasm for using reinforcement learning methods to tackle intricate issues and develop intelligent agents capable of learning and adjusting in ever-changing settings. Through my vast background in software development, my abilities in problem-solving and programming have been sharpened, allowing me to be a versatile researcher capable of connecting theoretical concepts with practical uses. I have participated in different software projects, acquiring skills in multiple programming languages and development methods, which has benefited my academic endeavors. My background includes statistical analysis, enabling me to implement rigorous data-driven methods in my research on DRL. I strive to actively participate in the advancement of intelligent algorithms in a wide range of applications, including autonomous systems and power systems, to foster innovation. My motivation stems from a love for technology, a hunger for learning, and a drive to explore the limits of computer science and AI.
+I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcement Learning (DRL) and also studying Statistics as a minor. I possess a solid background in computer science and have worked in software development for 5 years. I have a strong enthusiasm for using reinforcement learning methods to tackle intricate issues and develop intelligent agents capable of learning and adjusting in ever-changing settings. Through my vast background in software development, my abilities in problem-solving and programming have been sharpened, allowing me to be a versatile researcher capable of connecting theoretical concepts with practical uses. I have participated in different software projects, acquiring skills in multiple programming languages and development methods, which has benefited my academic endeavors. My background includes statistical analysis, enabling me to implement rigorous data-driven methods in my research on DRL. I strive to actively participate in the advancement of intelligent algorithms in a wide range of applications, including autonomous systems and power systems, to foster innovation. My motivation stems from a love for technology, a hunger for learning, and a drive to explore the limits of computer science and AI.
 
-----------------------------------------------------------------------------------
-I am interested in working with research and technical companies as well as engaging in open-source projects. Feel free to reach out to me on Github or any of the platforms listed below:
+> Feel free to connect and future collaborations ⏬
+<p align ="center"> 
+<a href="https://www.linkedin.com/in/kundan-kumarr/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
+<a href="mailto:cs.kundann@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
+</p>
 
-**📝Linkedin:** https://www.linkedin.com/in/kundan7kumar/
 
-----------------------------------------------------------------------------------
 
-**Algorithm Interview Preparation:** https://github.com/kundan-kumarr/algorithmic-challenge
 
-**Research/Data Scientist Interview Preparation:** https://github.com/kundan-kumarr/research-scientist
 
-**Research Notes:** https://github.com/kundan-kumarr/DRL-Research
 
-----------------------------------------------------------------------------------
+
+
+
