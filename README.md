@@ -1,7 +1,7 @@
 ### 
 
 <!--
-**kundan7kumar/kundan7kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itsswatii/itsswatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 <p>
 
 </a>
-<a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" />
-</a>
-<a href="https://orcid.org/0000-0002-3229-6649">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=plastic&logo=orcid&logoColor=white" alt="" />
-</a>
-<a href="mailto:neweraairesearch@gmail.com">
+<a href="mailto:itsswati27@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" />
 </a>
 <br />
@@ -36,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@cs.kundann">
     <img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" />
 </a>
-<a href="https://www.linkedin.com/in/kundan7kumar/">
+<a href="https://www.linkedin.com/in/swati-kumarii/">
     <img src="https://img.shields.io/badge/Linkedin2CA5E0?style=plastic&logo=medium&color=White" alt="" />
 
 </p>
