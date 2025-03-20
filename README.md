@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 [![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Swati+Kumari+%F0%9F%91%8B;Market+Analyst)](https://github.com/kundan7kumar)
 
-<p align="center"><a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-<a href="https://kundan-kumarr.github.io/"><img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" /></a>
-<a href="https://medium.com/@kkresearch"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" /></a>
-</p>
 
 <p>
+    <a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </a>
 <a href="mailto:itsswati27@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" />
