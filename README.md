@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 <p>
     <a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </a>
-<a href="mailto:itsswati27@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" />
-</a>
 <a href="https://kundan-kumarr.github.io/">
     <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
 </a>
@@ -39,7 +36,7 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 > Feel free to connect and future collaborations ⏬
 <p align ="center"> 
 <a href="https://www.linkedin.com/in/kundan-kumarr/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
-<a href="mailto:cs.kundann@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
+<a href="mailto:itsswati27@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
 </p>
 
 
