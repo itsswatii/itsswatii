@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://itsswatii.github.io/">
     <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
 </a>
-<a href="https://medium.com/@swatii">
+<a href="https://medium.com/@itsswatii">
     <img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" />
 </a>
 <a href="https://www.linkedin.com/in/swati-kumarii/">
