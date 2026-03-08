@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 🎓 Dual-degree candidate (MBA & MS in MIS) at Iowa State University with over 4 years of experience driving data-informed strategies across analytics, business operations, and marketing. My passion lies at the intersection of data science, product strategy, and business impact, where I turn raw data into actionable insights and meaningful outcomes.
 
-📊 At Accenture (client:google), I gained hands-on experience in business operations and data analysis, sharpening my skills in stakeholder communication, dashboarding, and cross-functional collaboration. In my recent role as a Data Science for Public Good fellow, I led a team of undergraduates to tackle real-world community issues using tools like Python, Tableau, and GitHub.
+At Accenture (Client:Google), I gained hands-on experience in business operations and data analysis, sharpening my skills in stakeholder communication, dashboarding, and cross-functional collaboration. In my recent role as a Data Science for Public Good fellow, I led a team of undergraduates to tackle real-world community issues using tools like Python, Tableau, and GitHub.
 
-🧠 I thrive in fast-paced environments where I can lead initiatives, mentor teams, and dive deep into data storytelling. Whether it's managing projects, guiding policy initiatives as a student senate leader, or leading wellness classes as a certified yoga instructor, I bring empathy, structure, and strategy to everything I do.
+I thrive in fast-paced environments where I can lead initiatives, mentor teams, and dive deep into data storytelling. Whether it's managing projects, guiding policy initiatives as a student senate leader, or leading wellness classes as a certified yoga instructor, I bring empathy, structure, and strategy to everything I do.
 
-🔍 I’m actively exploring full-time opportunities in Data Science | Product Management | Business Analytics—roles where I can blend my technical capabilities with my leadership mindset.
+I’m actively exploring full-time opportunities in Data Science | Product Management | Business Analytics—roles where I can blend my technical capabilities with my leadership mindset.
 
 Let’s connect if you’re passionate about data-driven innovation, inclusive leadership, or just love a good dashboard!
 
