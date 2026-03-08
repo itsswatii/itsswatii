@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>
     <a href="Kumari_Swati_Resume.pdf"><img src="cv.svg" alt="Curriculum Vitae"></a>
 </a>
-<a href="https://itsswatii.github.io/">
+<a href="https://itsswatii.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
 </a>
 <a href="https://medium.com/@itsswatii">
