@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@itsswatii">
     <img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" />
 </a>
-<a href="https://www.linkedin.com/in/swati-kumarii/">
-    <img src="https://img.shields.io/badge/Linkedin2CA5E0?style=plastic&logo=medium&color=White" alt="" />
+<a href="https://www.linkedin.com/in/swati-kumarii/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
 </p>
 
 🎓 Dual-degree candidate (MBA & MS in MIS) at Iowa State University with over 4 years of experience driving data-informed strategies across analytics, business operations, and marketing. My passion lies at the intersection of data science, product strategy, and business impact, where I turn raw data into actionable insights and meaningful outcomes.
