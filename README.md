@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p>
-    <a href="Kumari_Swati_Resume.pdf"><img src="cv.svg" alt="Curriculum Vitae"></a>
+    <a href="[Kumari_Swati_Resume.pdf](https://github.com/itsswatii/portfolio/blob/main/resume/SwatiKumari_resume.pdf)"><img src="cv.svg" alt="Curriculum Vitae"></a>
 </a>
 <a href="https://itsswatii.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
