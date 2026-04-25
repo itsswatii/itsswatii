@@ -1,56 +1,93 @@
-### 
+# Swati Kumari
 
-<!--
-**itsswatii/itsswatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![itsswatii](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Swati+Kumari+%F0%9F%91%8B;Data+Scientist)](https://github.com/itsswatii)
-
-
-<p>
-    <a href="https://github.com/itsswatii/portfolio/blob/main/resume/SwatiKumari_resume.pdf"><img src="cv.svg" alt="Curriculum Vitae"></a>
-</a>
-<a href="https://itsswatii.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
-</a>
-<a href="https://medium.com/@itsswatii">
-    <img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" />
-</a>
-<a href="https://www.linkedin.com/in/swati-kumarii/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=2F80ED&lines=Data+Analyst+%7C+AdTech+%7C+Telecom;SQL+%7C+Python+%7C+Machine+Learning;Building+AI-powered+analytics+systems" />
 </p>
 
-🎓 Dual-degree candidate (MBA & MS in MIS) at Iowa State University with over 4 years of experience driving data-informed strategies across analytics, business operations, and marketing. My passion lies at the intersection of data science, product strategy, and business impact, where I turn raw data into actionable insights and meaningful outcomes.
+---
 
-At Accenture (Client:Google), I gained hands-on experience in business operations and data analysis, sharpening my skills in stakeholder communication, dashboarding, and cross-functional collaboration. In my recent role as a Data Science for Public Good fellow, I led a team of undergraduates to tackle real-world community issues using tools like Python, Tableau, and GitHub.
+## About Me
 
-I thrive in fast-paced environments where I can lead initiatives, mentor teams, and dive deep into data storytelling. Whether it's managing projects, guiding policy initiatives as a student senate leader, or leading wellness classes as a certified yoga instructor, I bring empathy, structure, and strategy to everything I do.
+- MS in Management Information Systems, Iowa State University  
+- Experience at Google (DV360, Google Fi)  
+- Strong background in data analysis, business intelligence, and machine learning  
+- Currently focused on AI-powered analytics and LLM-based systems  
 
-I’m actively exploring full-time opportunities in Data Science | Product Management | Business Analytics—roles where I can blend my technical capabilities with my leadership mindset.
+---
 
-Let’s connect if you’re passionate about data-driven innovation, inclusive leadership, or just love a good dashboard!
+## Technical Skills
 
-> Feel free to connect and future collaborations ⏬
-<p align ="center"> 
-<a href="https://www.linkedin.com/in/swati-kumarii/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
-<a href="mailto:itsswati27@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
+**Programming:** Python (Pandas, NumPy, Scikit-learn), R  
+**Data Analysis:** SQL (Joins, Window Functions), Excel  
+**Visualization:** Tableau, Power BI, Looker  
+**Data Engineering:** ETL Pipelines, Data Warehousing  
+**AI / ML:** Regression, Classification, Forecasting, Churn Modeling  
+**AI Tools:** LLM APIs (OpenAI, Gemini), LangChain, FAISS  
+
+---
+
+## Featured Projects
+
+### NutriCheck-AI: Ingredient Intelligence using LLM and RAG
+- Built AI system to classify food ingredients based on health impact  
+- Implemented RAG pipeline using LangChain and FAISS  
+- Generated explainable insights using LLMs  
+
+---
+
+### Telecom Customer Churn Analysis
+- Analyzed subscriber data using SQL and Python  
+- Built ML models to predict churn and identify key drivers  
+- Developed dashboards to track retention metrics  
+
+---
+
+### Programmatic Advertising Analytics
+- Processed large-scale ad data using SQL and Python  
+- Built dashboards for campaign performance optimization  
+- Analyzed CTR, CPC, ROAS across campaigns  
+
+---
+
+### AI-Powered KPI Reporting Automation
+- Built automated reporting pipeline using Python and LLM APIs  
+- Generated executive summaries from structured datasets  
+- Integrated with BI dashboards for real-time monitoring  
+
+---
+
+## Current Focus
+
+- AI-powered analytics systems  
+- Applying LLMs to business problems  
+- Scalable data pipelines and automation  
+
+---
+
+## GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsswatii&show_icons=true&theme=default" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsswatii&theme=default" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsswatii&layout=compact" />
+</p>
 
+---
 
+## Links
 
+- GitHub: https://github.com/itsswatii  
+- LinkedIn: https://www.linkedin.com/in/swati-kumarii  
+- Portfolio: https://itsswatii.github.io/portfolio  
 
+---
 
+## Contact
 
-
+Open to opportunities in Data Analytics, Data Science, and Applied AI roles.
